@@ -1,0 +1,10 @@
+# Shopify CLI files
+.shopify/
+shopify.theme.toml
+
+# OS and IDE files
+.DS_Store
+*.log
+node_modules/
+dist/
+.env
